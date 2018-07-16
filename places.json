@@ -1,0 +1,38 @@
+{
+  "places": [{
+    "title" : "Manuel Antonio",
+    "placeSingle" : "1",
+    "mainAttractive" : ["Hotels", "Playa Espadilla", "La Playita", "Manuel Antonio National Park"],
+    "description" : "Manuel Antonio is an small oceanside village with plenty of great places to stay - from extravagant luxury condos to cozy hideaway hotels tucked into nature. Famous for its national park, this tiny yet bustling town is located off Costa Rica's central Pacific coast just a stone's throw away from Quepos which is famous for sportfishing. The region is a treasure for biodiversity, attracting nature buffs, eco-travelers and adventure-seekers alike. Better yet, if you visit, you can soak up white sand and perfect waters. Without a doubt, Manuel Antonio lies within one of the country's most celebrated spots.",
+    "poster" : "manuelAntonioPoster.png",
+    "hero_image" : "manuelAntonio.jpg"
+  },
+
+  {
+    "title" : "Arenal Volcano",
+    "placeSingle" : "2",
+    "mainAttractive" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
+    "description" : "Ten years after the 'Phantom Menace' threatened the planet Naboo, Padmé Amidala is now a Senator representing her homeworld. A faction of political separatists, led by Count Dooku, attempts to assassinate her. There are not enough Jedi to defend the Republic against the threat, so Chancellor Palpatine enlists the aid of Jango Fett, who promises that his army of clones will handle the situation. Meanwhile, Obi-Wan Kenobi continues to train the young Jedi Anakin Skywalker, who fears that the Jedi code will forbid his growing romance with Amidala.",
+    "poster" : "arenalVolcanoPoster.png",
+    "hero_image" : "arenalVolcano.jpg"
+  },
+
+  {
+    "title" : "Guanacaste",
+    "placeSingle" : "3",
+    "mainAttractive" : ["Beaches", "Liberia","National Parks", "Sunsets"],
+    "description" : "As one of the most popular provinces in Costa Rica, Guanacaste has gained a name for itself as a tropical paradise with a pristine shoreline, beautiful mountain ranges and a number of volcanoes. Visitors are drawn to the long summer days, active culture and unparalleled wildlife. Located in the far northwest corner of Costa Rica, Guanacaste's geographical features are diverse and exotic. With endless options for recreation, there are countless reasons why locals and international visitors alike travel to Guanacaste.",
+    "poster" : "guanacastePoster.jpeg",
+    "hero_image" : "guanacaste.jpg"
+  },
+
+  {
+    "title" : "Puerto Viejo",
+    "placeSingle" : "3",
+    "mainAttractive" : ["Manzanillo", "Local Food", "Gently People and Good Vibes", "Cahuita"],
+    "description" : "Puerto Viejo is the Rasta of Costa Rica. This town is a popular spot for nomadic backpackers, surfers and wildlife fans. At first glance, it looks like some other towns in Costa Rica, but after a deepr look, this town is very unique. There is a heavy Rasta, Afro Caribbean influence here, mixed with locals and Ex-pats. ",
+    "poster" : "puertoViejoPoster.png",
+    "hero_image" : "puertoViejo.jpg"
+  }]
+
+}
